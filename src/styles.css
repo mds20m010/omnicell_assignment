@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fafafa;
+}
+.HomePage {
+  position: relative;
+}
+.NavBar {
+  position: fixed;
+  z-index: 1;
+}
+.Content {
+  position: absolute;
+  display: flex;
+  background-color: #cccccc;
+}
+.LeftMenu {
+  position: fixed;
+}
+.Posts {
+  margin-top: 110px;
+  margin-left: 380px;
+}

@@ -1,0 +1,16 @@
+.Post {
+  margin-right: 200px;
+  margin-bottom: 10px;
+}
+.CardHeader {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+}
+.Settings {
+  padding-left: 150px;
+}
+.CardBottom {
+  color: black;
+}

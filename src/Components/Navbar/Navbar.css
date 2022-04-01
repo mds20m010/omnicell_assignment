@@ -1,0 +1,32 @@
+.Navbar {
+  padding: 0px 350px 0px 350px;
+  display: flex;
+  height: 70px;
+  align-items: center;
+  background-color: #ffffff;
+  gap: 10px;
+}
+.Logo {
+  float: left;
+  width: 30%;
+}
+.Middle {
+  width: 10%;
+}
+.Left {
+  cursor: pointer;
+  display: flex;
+  float: right;
+  align-items: center;
+  gap: 10px;
+}
+
+.Middle input[type="text"] {
+  float: right;
+  border: none;
+  margin-right: 100px;
+  font-size: 18px;
+  background-color: #d9d9d9;
+  border-radius: 7px;
+  height: 30px;
+}

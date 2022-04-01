@@ -1,0 +1,10 @@
+.LeftMenu {
+  display: flex;
+  align-items: center;
+  margin-top: 90px;
+  margin-left: 420px;
+  gap: 10px;
+}
+.BoldLink {
+  text-decoration: none;
+}
